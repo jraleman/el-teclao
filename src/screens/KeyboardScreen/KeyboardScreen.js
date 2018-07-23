@@ -10,7 +10,6 @@ class KeyboardScreen extends React.Component {
   render () {
     return (
       <div>
-        <p>{ "Dummy KeyboardScreen" }</p>
         <KeyboardComponent />
       </div>
     );
